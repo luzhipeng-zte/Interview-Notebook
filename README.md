@@ -15,7 +15,7 @@
 
 整理自《计算机网络 第七版》，重点内容会在标题后面加 \*。
 
-> [HTTP](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/HTTP.md)
+> [HTTP](https://github.com/luzhipeng-zte/Interview-Notebook/blob/master/notes/HTTP.md)
 
 整理自《图解 HTTP》
 
