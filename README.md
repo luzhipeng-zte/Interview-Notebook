@@ -11,7 +11,7 @@
 
 ## 网络 :cloud:
 
-> [计算机网络](https://github.com/luzhipeng-zte/InnterviewNotes/blob/master/notes/计算机网络.md)
+> [计算机网络](https://github.com/luzhipeng-zte/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 整理自《计算机网络 第七版》，重点内容会在标题后面加 \*。
 
